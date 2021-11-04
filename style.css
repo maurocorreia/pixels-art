@@ -22,3 +22,16 @@
 #corQuatro{
     background-color: #bee1e6;
 }
+
+.pixel{
+    height: 40px;
+    width: 40px;
+    border: 1px black solid;
+    background-color: white;
+}
+
+#pixel-board{
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px 40px;
+
+}
