@@ -1,0 +1,24 @@
+.color {
+    width: 40px;
+    height: 40px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+}
+
+#corUm{
+    background-color: black;
+}
+
+#corDois{
+    background-color: seagreen;
+}
+
+#corTres{
+    background-color: #2ec4b6;
+}
+
+#corQuatro{
+    background-color: #bee1e6;
+}
