@@ -1,21 +1,20 @@
 .color {
-    width: 40px;
-    height: 40px;
-    border-width: 1px;
-    border-color: black;
-    border-style: solid;
-    display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  display: inline-block;
 }
 
-.pixel{
-    height: 40px;
-    width: 40px;
-    border: 1px black solid;
-    background-color: white;
+.pixel {
+  height: 40px;
+  width: 40px;
+  border: 1px black solid;
+  background-color: white;
 }
 
-#pixel-board{
-    display: grid;
-    grid-template-columns: 40px 40px 40px 40px 40px;
-
+#pixel-board {
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px;
 }
