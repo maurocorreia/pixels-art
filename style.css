@@ -7,22 +7,6 @@
     display: inline-block;
 }
 
-#corUm{
-    background-color: black;
-}
-
-#corDois{
-    background-color: seagreen;
-}
-
-#corTres{
-    background-color: #2ec4b6;
-}
-
-#corQuatro{
-    background-color: #bee1e6;
-}
-
 .pixel{
     height: 40px;
     width: 40px;
